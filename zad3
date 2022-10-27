@@ -1,0 +1,14 @@
+package Primer3;
+
+public class zad3 {
+	public static void main(String[] args) 
+	{
+	    
+	    String firstName = "Марија";
+	    String lastName = " Мирческа";
+	    int index = 774;
+	   
+  
+	    System.out.println("Здраво, јас сум " + firstName + lastName + ". Мојот број на индекс е " + index);
+	  }
+	}

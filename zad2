@@ -1,0 +1,13 @@
+package Primer2;
+
+public class zad2 {
+	public static void main(String[] args) {
+	    
+	    String firstString = "Hello";
+	    String secondString = " World!";
+	    String joinedString = firstString.concat(secondString);
+	   
+  
+	    System.out.println( joinedString);
+	  }
+	}
